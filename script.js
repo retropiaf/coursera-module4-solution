@@ -67,5 +67,3 @@
 
 })();
 
-var test = "TEST";
-console.log(test.toLowerCase());
